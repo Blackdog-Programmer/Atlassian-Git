@@ -1,2 +1,2 @@
-# atlassian-git
+# Git
 Version Control with Git Atlassian
